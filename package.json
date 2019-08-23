@@ -1,0 +1,26 @@
+{
+  "name": "hello-marble",
+  "version": "1.0.0",
+  "description": "marblejs demo",
+  "main": "index.ts",
+  "dependencies": {
+    "@marblejs/core": "^2.3.1",
+    "@marblejs/middleware-body": "^2.3.1",
+    "@marblejs/middleware-logger": "^2.3.1",
+    "rxjs": "^6.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alxford45/hello-marble.git"
+  },
+  "author": "Alex Ford",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alxford45/hello-marble/issues"
+  },
+  "homepage": "https://github.com/alxford45/hello-marble#readme"
+}
